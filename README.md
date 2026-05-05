@@ -1,2 +1,19 @@
-# Adaptive-Learning-Path
-Here's a concise project description you can use on your resume or portfolio:  One-liner  "A full-stack adaptive learning path builder that lets educators visually design conditional quiz flows using a drag-and-drop canvas.
+# Adaptive Learning Path Builder
+
+A full-stack web application that enables educators to create adaptive 
+learning paths through a visual drag-and-drop interface. Learners are 
+automatically routed through different content based on their performance.
+
+---
+
+## Tech Stack
+
+**Frontend**
+- React (Hooks)
+- SVG for edge/connection rendering
+- CSS-in-JS styling
+
+**Backend**
+- Java 17
+- Spring Boot 3.x
+- Maven
